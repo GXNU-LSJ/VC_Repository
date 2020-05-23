@@ -1,0 +1,5 @@
+﻿  第三周实验五View.cpp
+c:\users\hasee\desktop\vc程序\第三周\第三周实验五\第三周实验五\第三周实验五view.cpp(115): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\hasee\desktop\vc程序\第三周\第三周实验五\第三周实验五\第三周实验五view.cpp(128): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  第三周实验五.vcxproj -> C:\Users\Hasee\Desktop\VC程序\第三周\第三周实验五\Debug\第三周实验五.exe
+  第三周实验五.vcxproj -> C:\Users\Hasee\Desktop\VC程序\第三周\第三周实验五\Debug\第三周实验五.pdb (Partial PDB)

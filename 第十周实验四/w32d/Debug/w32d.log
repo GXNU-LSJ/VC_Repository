@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  w32d.cpp
+c:\users\hasee\desktop\vc程序\第十周实验\第十周实验四\w32d\w32d.h(28): warning C4305: “初始化”: 从“double”到“float”截断
+    正在创建库 C:\Users\Hasee\Desktop\VC程序\第十周实验\第十周实验四\Debug\w32d.lib 和对象 C:\Users\Hasee\Desktop\VC程序\第十周实验\第十周实验四\Debug\w32d.exp
+  w32d.vcxproj -> C:\Users\Hasee\Desktop\VC程序\第十周实验\第十周实验四\Debug\w32d.dll
+  w32d.vcxproj -> C:\Users\Hasee\Desktop\VC程序\第十周实验\第十周实验四\Debug\w32d.pdb (Full PDB)
