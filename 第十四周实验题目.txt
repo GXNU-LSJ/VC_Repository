@@ -1,0 +1,26 @@
+实验一：
+1. SQL语句：
+            SELECT *  FROM 学生信息表  WHERE 姓名 = '张三'
+            WHER后的 " 姓名 = '张三' ”称为where子句
+            SELECT *  FROM 学生信息表 ORDER BY 姓名 DESC
+            ORDER BY后的 "姓名 DESC" 称为order by子句
+2. 程序开始时，通过执行语句
+            SELECT *  FROM 学生信息表
+            从数据库中提取记录放入记录集，此时的WHERE子句为空
+3.  数据库记录的查询
+           把WHRER子句赋值给数据集数据成员m_strFilter, 然后执行Requery()，
+           即能把满足查询条件的记录提取出来放入记录集, 如果m_strFilter=_T("")后
+           再Requery()，则能恢复到默认的记录集
+4.  数据库记录的排序
+        把 ORDER BY子句赋值给数据集数据成员m_strSort, 然后执行Requery()，即
+        能按排序要求把记录提取出来放入记录集
+5.  遍历记录集　
+　     用到下列记录集函数：
+               GetODBCFieldCount( )——获取字段数目   
+               MoveFirst()，　MoveNext()，　IsEOF() ——控制while循环
+               GetFieldValue((short)n,str)——读取当前记录的第n个字段，放入字符串str
+实验内容
+实现基于数据库程序的查询、排序和记录集的显示功能
+
+实验二：
+完成综合实验题。
