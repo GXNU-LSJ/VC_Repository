@@ -1,0 +1,7 @@
+﻿  ADD.cpp
+c:\users\hasee\desktop\vc程序\第十二周实验\第十二周实验一\第十二周实验一\add.cpp(75): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\hasee\desktop\vc程序\第十二周实验\第十二周实验一\第十二周实验一\add.cpp(76): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\hasee\desktop\vc程序\第十二周实验\第十二周实验一\第十二周实验一\add.cpp(81): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\hasee\desktop\vc程序\第十二周实验\第十二周实验一\第十二周实验一\add.cpp(87): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  第十二周实验一.vcxproj -> C:\Users\Hasee\Desktop\VC程序\第十二周实验\第十二周实验一\Debug\第十二周实验一.exe
+  第十二周实验一.vcxproj -> C:\Users\Hasee\Desktop\VC程序\第十二周实验\第十二周实验一\Debug\第十二周实验一.pdb (Partial PDB)
